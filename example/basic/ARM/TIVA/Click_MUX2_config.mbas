@@ -1,0 +1,4 @@
+module Click_MUX2_config
+
+include Click_MUX2_types
+end.

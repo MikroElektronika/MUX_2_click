@@ -1,0 +1,5 @@
+unit Click_MUX2_config;
+
+uses Click_MUX2_types;
+
+end.
